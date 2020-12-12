@@ -9,7 +9,7 @@ import sys
 #EMIL HENA TAWAW
 # FA7S INSTA TAWAW
 def ya():
-    file=open("punjabi.txt","w")
+    file=open("yahoo.txt","w")
     os.system('clear')
     name=input("NAME :")
     url=int(input("CHAND EMIL BE :"))
@@ -28,7 +28,7 @@ def ya():
 
 
 def gm():
-    file=open("punjabi.txt","w")
+    file=open("gmail.txt","w")
     os.system('clear')
     name=input("NAME :")
     url=int(input("CHAND EMIL BE :"))
@@ -51,7 +51,7 @@ def gm():
 
 
 def ho():
-    file=open("punjabi.txt","w")
+    file=open("hotmail.txt","w")
     os.system('clear')
     name=input("NAME :")
     url=int(input("CHAND EMIL BE :"))
@@ -97,7 +97,7 @@ def chek2():
 
 
 def aol():
-    file=open("punjabi.txt","w")
+    file=open("aol.txt","w")
     os.system('clear')
     name=input("NAME :")
     url=int(input("CHAND EMIL BE :"))
