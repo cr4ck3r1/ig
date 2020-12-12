@@ -169,7 +169,6 @@ def instacheker():
     ani=input("ENTER")
 
 def danyar():
-    os.system("xdg-open https://www.instagram.com/ara_software/")
     os.system('clear')
     logo="""\033[0;34m
      
